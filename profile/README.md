@@ -1,4 +1,4 @@
-![Alt text](image.png)
+![image](https://github.com/santander-coders-seletiva/.github/assets/96620547/92083f0f-a567-4208-979c-5368f48eebf7)
 
 Bem-vindo ao repositório da comunidade Santander Coders! Aqui você encontrará uma coleção de dicas e conselhos valiosos para ajudá-lo a ser aprovado nas etapas do processo seletivo do Santander Coders. Esta comunidade foi criada com a participação de ex-candidatos que foram aprovados em edições anteriores e estão comprometidos em compartilhar suas experiências e conhecimentos para ajudar outros aspirantes.
 
