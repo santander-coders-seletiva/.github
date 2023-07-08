@@ -51,4 +51,4 @@ Você também pode participar das discussões da comunidade. Para isso, acesse a
 
 ## Licença
 
-A licença desse repositório é MIT. Para mais informações, acesse o arquivo [LICENSE](../LICENSE).
+A licença desse repositório é MIT. Para mais informações, acesse o arquivo LICENSE.
